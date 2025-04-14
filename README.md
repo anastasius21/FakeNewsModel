@@ -1,5 +1,6 @@
 # 📰 Fake News Detection using NLP & Streamlit
 This project focuses on detecting fake news articles using Natural Language Processing (NLP) and Machine Learning. It includes both model training in Jupyter Notebook and a simple Streamlit app for interactive prediction.
+Dataset: https://www.kaggle.com/c/fake-news/data
 
 # Overview
 This project focuses on building a binary classifier that uses text features from news articles to determine their authenticity.
